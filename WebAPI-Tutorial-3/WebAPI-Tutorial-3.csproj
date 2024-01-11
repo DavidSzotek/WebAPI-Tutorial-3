@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <InvariantGlobalization>false</InvariantGlobalization>
     <RootNamespace>WebAPI_Tutorial_3</RootNamespace>
+    <UserSecretsId>f51b845c-129a-46e7-a2f8-355a5c694736</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
